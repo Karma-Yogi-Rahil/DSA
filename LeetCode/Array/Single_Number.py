@@ -15,7 +15,7 @@ Input: nums = [1]
 Output: 1
 
 """
-# in this we make a dictionary add the new element and pop the number which is alread in the dictionary , and the end remaing key is the single one 
+# in this we make a dictionary add the new element and pop the number which is alread in the dictionary , and at the end remaing key is the single one 
 
 
 nums = [4,1,2,1,2]
