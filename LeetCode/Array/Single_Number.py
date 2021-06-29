@@ -23,7 +23,6 @@ nums = [4,1,2,1,2]
 list_table = {}
 
 for i in nums:
-    print(i)
     try:
         list_table.pop(i)
         
