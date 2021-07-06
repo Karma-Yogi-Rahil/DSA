@@ -18,12 +18,16 @@ rotate 2 steps to the right: [3,99,-1,-100]
 
 """
 # will be using python slicing method
+
+#given
 num = [-1,-100,3,99]
 k=2
+
+#Solution
 k %= len(num)
 num[k:], num[:k] = num[:-k], num[-k:]
 
-
+print(num)
 
 
 
