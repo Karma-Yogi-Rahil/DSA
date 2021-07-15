@@ -41,7 +41,7 @@ Note that the five elements can be returned in any order.
 It does not matter what you leave beyond the returned k (hence they are underscores).
 """
 
-
+# The catch here to solve from back 
 nums = [3,2,2,3]
 val = 3
 print(len(nums))
