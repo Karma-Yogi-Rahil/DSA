@@ -1,0 +1,1 @@
+{"name":"Local: Cut the sticks","url":"/Users/rahilmehta/Documents/Git/DSA/HackerRank/Cut the sticks.py","tests":[{"id":1631174912306,"input":"6              \n5 4 4 2 2 8","output":"6\n4\n2\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/rahilmehta/Documents/Git/DSA/HackerRank/Cut the sticks.py","group":"local","local":true}

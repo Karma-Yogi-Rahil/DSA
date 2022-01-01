@@ -1,0 +1,1 @@
+{"name":"Local: test","url":"/Users/rahilmehta/Documents/Git/DSA/HackerRank/test.py","tests":[{"id":1631766785793,"input":"4\n3\n0 \n1 \n0 \n1 \n1 \n0 \n1 \n1 \n1","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/rahilmehta/Documents/Git/DSA/HackerRank/test.py","group":"local","local":true}

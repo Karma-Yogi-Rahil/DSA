@@ -1,0 +1,1 @@
+{"name":"Local: Circular Array Rotation","url":"/Users/rahilmehta/Documents/Git/DSA/HackerRank/Circular Array Rotation.py","tests":[{"id":1631085207130,"input":"3 2 3\n1 2 3\n0\n1\n2","output":"2\n3\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/rahilmehta/Documents/Git/DSA/HackerRank/Circular Array Rotation.py","group":"local","local":true}
