@@ -1,0 +1,1 @@
+{"name":"Local: Cats and a Mouse","url":"/Users/rahilmehta/Documents/Git/DSA/HackerRank/Cats and a Mouse.py","tests":[{"id":1630912542741,"input":"2\n1 2 3\n1 3 2","output":"Cat B\nMouse C"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/rahilmehta/Documents/Git/DSA/HackerRank/Cats and a Mouse.py","group":"local","local":true}

@@ -20,12 +20,15 @@ rotate 2 steps to the right: [3,99,-1,-100]
 # will be using python slicing method
 
 #given
-num = [-1,-100,3,99]
+num = [-1,-100,3,99,23]
 k=2
 
 #Solution
-k %= len(num)
+k=k % len(num)
+print(k)
+
 num[k:], num[:k] = num[:-k], num[-k:]
+print(num[k:], num[:k] ,'=', num[:-k], num[-k:])
 
 print(num)
 

@@ -1,0 +1,1 @@
+{"name":"Local: magic_square","url":"/Users/rahilmehta/Documents/Git/DSA/HackerRank/magic_square.py","tests":[{"id":1631192992744,"input":"4 8 2\n4 5 7\n6 1 6","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/rahilmehta/Documents/Git/DSA/HackerRank/magic_square.py","group":"local","local":true}
